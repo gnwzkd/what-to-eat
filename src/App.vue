@@ -361,7 +361,7 @@ body,
   }
 }
 
-.setting-dialog {
+.setting-dialog.md-dialog {
   overflow: hidden;
   .setting-view {
     display: flex;
