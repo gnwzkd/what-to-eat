@@ -291,9 +291,6 @@ export default {
     actionState() {
       return this.playing ? 'stop' : 'start'
     }
-  },
-  mounted() {
-    console.log(this)
   }
 }
 
